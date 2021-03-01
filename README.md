@@ -2,8 +2,10 @@
 
 github is very important for members team working together on same project
 
+# first step restored
 
+restoring first step
 
-## second step
+## this is new second step
 
-updating the readme file
+new second step
